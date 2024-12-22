@@ -19,3 +19,12 @@ You will need Python 3 and the `obd` library. To install the library, run the fo
 
 ```bash
 pip install obd
+```
+## Code
+
+To test my code with your vehicle, change DEVELOPER_MODE parameter at False.
+Don't forget to change the serial port if you don't have the same.
+
+## Sources
+
+https://python-obd.readthedocs.io/en/latest/
