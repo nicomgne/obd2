@@ -2,6 +2,9 @@
 
 This repository is designed for those who want to retrieve information about their vehicle and have an ELM327 Bluetooth adapter.
 
+
+![screenshot](capture.png)
+
 ## Bluetooth Configuration on Windows
 
 To configure Bluetooth for the ELM327 on Windows, follow these steps:
